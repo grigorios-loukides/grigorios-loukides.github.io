@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Publishing data from electronic health records while preserving privacy: A survey of algorithms",
+    "year": 2014,
+    "matched_id": "journals/jbi/Gkoulalas-DivanisLS14"
+  },
+  {
+    "title": "The disclosure of diagnosis codes can breach research participants' privacy",
+    "year": 2010,
+    "matched_id": "journals/jamia/LoukidesDM10"
+  },
+  {
+    "title": "Anonymization of electronic medical records for validating genome-wide association studies",
+    "year": 2010,
+    "matched_id": "pubmed/20385806"
+  },
+  {
+    "title": "Identifiability in biobanks: models, measures, and mitigation strategies",
+    "year": 2011,
+    "matched_id": "pubmed/21739176"
+  },
+  {
+    "title": "Capturing data usefulness and privacy protection in k-anonymisation",
+    "year": 2007,
+    "matched_id": "conf/sac/LoukidesS07"
+  },
+  {
+    "title": "Anonymizing data with relational and transaction attributes",
+    "year": 2013,
+    "matched_id": "conf/pkdd/PoulisLGS13"
+  },
+  {
+    "title": "Anonymization of longitudinal electronic medical records",
+    "year": 2012,
+    "matched_id": "journals/titb/TamersoyLNSM12"
+  },
+  {
+    "title": "COAT: Constraint-based anonymization of transactions",
+    "year": 2011,
+    "matched_id": "journals/kais/LoukidesGM11"
+  },
+  {
+    "title": "Medical data privacy handbook",
+    "year": 2015,
+    "matched_id": "books/sp/GL2015"
+  },
+  {
+    "title": "Apriori-based algorithms for km-anonymizing trajectory data.",
+    "year": 2014,
+    "matched_id": "journals/tdp/PoulisSLG14"
+  },
+  {
+    "title": "Disassociation for electronic health record privacy",
+    "year": 2014,
+    "matched_id": "journals/jbi/LoukidesLGT14"
+  },
+  {
+    "title": "Utility-preserving transaction data anonymization with low information loss",
+    "year": 2012,
+    "matched_id": "journals/eswa/LoukidesG12"
+  },
+  {
+    "title": "Efficient and flexible anonymization of transaction data",
+    "year": 2013,
+    "matched_id": "journals/kais/LoukidesGS13"
+  },
+  {
+    "title": "Revisiting sequential pattern hiding to enhance utility",
+    "year": 2011,
+    "matched_id": "conf/kdd/Gkoulalas-DivanisL11"
+  },
+  {
+    "title": "Approximating private set union/intersection cardinality with logarithmic complexity",
+    "year": 2017,
+    "matched_id": "journals/tifs/DongL17"
+  },
+  {
+    "title": "Data utility and privacy protection trade-off in k-anonymisation",
+    "year": 2008,
+    "matched_id": "conf/edbt/LoukidesS08"
+  },
+  {
+    "title": "Anonymizing datasets with demographics and diagnosis codes in the presence of utility constraints",
+    "year": 2017,
+    "matched_id": "journals/jbi/PoulisLSG17"
+  },
+  {
+    "title": "Distance-based k^m-anonymization of trajectory data",
+    "year": 2013,
+    "matched_id": "conf/mdm/PoulisSLG13"
+  },
+  {
+    "title": "Anonymizing transaction data to eliminate sensitive inferences",
+    "year": 2010,
+    "matched_id": "conf/dexa/LoukidesGS10"
+  },
+  {
+    "title": "An Efficient Clustering Algorithm for k -Anonymisation",
+    "year": 2008,
+    "matched_id": "journals/jcst/LoukidesS08"
+  }
+]

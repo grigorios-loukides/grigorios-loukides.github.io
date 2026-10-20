@@ -1,0 +1,2761 @@
+[
+  {
+    "id": "conf/icde/LiGTPL26",
+    "title": "Contextual Pattern Mining and Counting",
+    "authors": [
+      "Ling Li",
+      "Daniel Gibney",
+      "Sharma V. Thankachan",
+      "Solon P. Pissis",
+      "Grigorios Loukides"
+    ],
+    "year": 2026,
+    "venue": "ICDE 2026: 224-237",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icde/LiGTPL26"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Contextual Pattern Mining and Counting. ICDE 2026: 224-237"
+  },
+  {
+    "id": "journals/tkdd/ConteGLPPP26",
+    "title": "Fast Assessment of Eulerian Trails in Graphs with Applications",
+    "authors": [
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Giulia Punzi"
+    ],
+    "year": 2026,
+    "venue": "ACM Trans. Knowl. Discov. Data 20(1): 14:1-14:33 (2026)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tkdd/ConteGLPPP26"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Fast Assessment of Eulerian Trails in Graphs with Applications. ACM Trans. Knowl. Discov. Data 20(1): 14:1-14:33 (2026)"
+  },
+  {
+    "id": "journals/tcs/VerbeekALP26",
+    "title": "Minimizing the minimizers via alphabet reordering",
+    "authors": [
+      "Hilde Verbeek",
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2026,
+    "venue": "Theor. Comput. Sci. 1076: 115932 (2026)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tcs/VerbeekALP26"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Minimizing the minimizers via alphabet reordering. Theor. Comput. Sci. 1076: 115932 (2026)"
+  },
+  {
+    "id": "journals/mst/BernardiniCGGLPPS26",
+    "title": "On Strings Having the Same Length-k Substrings",
+    "authors": [
+      "Giulia Bernardini",
+      "Alessio Conte",
+      "Estéban Gabory",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Giulia Punzi",
+      "Michelle Sweering"
+    ],
+    "year": 2026,
+    "venue": "Theory Comput. Syst. 70(2): 21 (2026)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/mst/BernardiniCGGLPPS26"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "On Strings Having the Same Length-k Substrings. Theory Comput. Syst. 70(2): 21 (2026)"
+  },
+  {
+    "id": "journals/algorithmica/AyadLPV26",
+    "title": "Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Hilde Verbeek"
+    ],
+    "year": 2026,
+    "venue": "Algorithmica 88(3): 44 (2026)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/algorithmica/AyadLPV26"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. Algorithmica 88(3): 44 (2026)"
+  },
+  {
+    "id": "conf/icde/ZhouBTGCLP26",
+    "title": "Subtree Mode and Applications",
+    "authors": [
+      "Jialong Zhou",
+      "Ben Bals",
+      "Matei Tinca",
+      "Ai Guan",
+      "Panagiotis Charalampopoulos",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2026,
+    "venue": "ICDE 2026: 3152-3167",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icde/ZhouBTGCLP26"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Subtree Mode and Applications. ICDE 2026: 3152-3167"
+  },
+  {
+    "id": "journals/sigmod/Loukides26",
+    "title": "Technical perspective on 'Differentially Private Substring and Document Counting'",
+    "authors": [
+      "Grigorios Loukides"
+    ],
+    "year": 2026,
+    "venue": "SIGMOD Rec. 55(1): 40 (2026)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/sigmod/Loukides26"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Technical perspective on 'Differentially Private Substring andDocument Counting'. SIGMOD Rec. 55(1): 40 (2026)"
+  },
+  {
+    "id": "journals/corr/abs-2609-19914",
+    "title": "ZigZag Trie: A Novel Index for Contextual Queries",
+    "authors": [
+      "Ling Li",
+      "Daniel Gibney",
+      "Sharma V. Thankachan",
+      "Rahul Shah",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2026,
+    "venue": "CoRR abs/2609.19914 (2026)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2609-19914"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "ZigZag Trie: A Novel Index for Contextual Queries. CoRR abs/2609.19914 (2026)"
+  },
+  {
+    "id": "journals/tkde/LiVCLGSP25",
+    "title": "Heavy Nodes in a Small Neighborhood: Exact and Peeling Algorithms With Applications",
+    "authors": [
+      "Ling Li",
+      "Hilde Verbeek",
+      "Huiping Chen",
+      "Grigorios Loukides",
+      "Robert Gwadera",
+      "Leen Stougie",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "IEEE Trans. Knowl. Data Eng. 37(4): 1853-1870 (2025)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tkde/LiVCLGSP25"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Heavy Nodes in a Small Neighborhood: Exact and Peeling Algorithms With Applications. IEEE Trans. Knowl. Data Eng. 37(4): 1853-1870 (2025)"
+  },
+  {
+    "id": "conf/icde/BernardiniCCGGLPP25",
+    "title": "Indexing Strings with Utilities",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Veronica Guerrini",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "ICDE 2025: 2782-2795",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icde/BernardiniCCGGLPP25"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Indexing Strings with Utilities. ICDE 2025: 2782-2795"
+  },
+  {
+    "id": "journals/datamine/BernardiniLLMPSS25",
+    "title": "Missing value replacement in strings and applications",
+    "authors": [
+      "Giulia Bernardini",
+      "Chang Liu",
+      "Grigorios Loukides",
+      "Alberto Marchetti-Spaccamela",
+      "Solon P. Pissis",
+      "Leen Stougie",
+      "Michelle Sweering"
+    ],
+    "year": 2025,
+    "venue": "Data Min. Knowl. Discov. 39(2): 12 (2025)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/datamine/BernardiniLLMPSS25",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/39867462/",
+      "DOI": "https://doi.org/10.1007/s10618-024-01074-3"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed"
+    ],
+    "citation": "Missing value replacement in strings and applications. Data Min. Knowl. Discov. 39(2): 12 (2025)",
+    "doi": "10.1007/s10618-024-01074-3"
+  },
+  {
+    "id": "conf/birthday/0001CLP25",
+    "title": "On String and Graph Sanitization",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "From Strings to Graphs, and Back Again 2025: 9:1-9:10",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/birthday/0001CLP25"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "On String and Graph Sanitization. From Strings to Graphs, and Back Again 2025: 9:1-9:10"
+  },
+  {
+    "id": "conf/icdm/BianCAMPL25",
+    "title": "Resilient Pattern Mining",
+    "authors": [
+      "Pengxin Bian",
+      "Panagiotis Charalampopoulos",
+      "Lorraine A. K. Ayad",
+      "Manal Mohamed",
+      "Solon P. Pissis",
+      "Grigorios Loukides"
+    ],
+    "year": 2025,
+    "venue": "ICDM 2025: 81-89",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icdm/BianCAMPL25"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Resilient Pattern Mining. ICDM 2025: 81-89"
+  },
+  {
+    "id": "journals/vldb/AyadLP25",
+    "title": "Text indexing for long patterns using locally consistent anchors",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "VLDB J. 34(5): 58 (2025)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/vldb/AyadLP25"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Text indexing for long patterns using locally consistent anchors. VLDB J. 34(5): 58 (2025)"
+  },
+  {
+    "id": "conf/wea/AyadFKLPPP25",
+    "title": "U-Index: A Universal Indexing Framework for Matching Long Patterns",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Gabriele Fici",
+      "Ragnar Groot Koerkamp",
+      "Grigorios Loukides",
+      "Rob Patro",
+      "Giulio Ermanno Pibiri",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "SEA 2025: 4:1-4:18",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/wea/AyadFKLPPP25"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "U-Index: A Universal Indexing Framework for Matching Long Patterns. SEA 2025: 4:1-4:18"
+  },
+  {
+    "id": "journals/corr/abs-2506-17613",
+    "title": "Contextual Pattern Mining and Counting",
+    "authors": [
+      "Ling Li",
+      "Daniel Gibney",
+      "Sharma V. Thankachan",
+      "Solon P. Pissis",
+      "Grigorios Loukides"
+    ],
+    "year": 2025,
+    "venue": "CoRR abs/2506.17613 (2025)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2506-17613"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Contextual Pattern Mining and Counting. CoRR abs/2506.17613 (2025)"
+  },
+  {
+    "id": "journals/corr/abs-2504-05917",
+    "title": "Indexing Strings with Utilities",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Veronica Guerrini",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "CoRR abs/2504.05917 (2025)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2504-05917"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Indexing Strings with Utilities. CoRR abs/2504.05917 (2025)"
+  },
+  {
+    "id": "journals/corr/abs-2506-04935",
+    "title": "Resilient Pattern Mining",
+    "authors": [
+      "Pengxin Bian",
+      "Panagiotis Charalampopoulos",
+      "Lorraine A. K. Ayad",
+      "Manal Mohamed",
+      "Solon P. Pissis",
+      "Grigorios Loukides"
+    ],
+    "year": 2025,
+    "venue": "CoRR abs/2506.04935 (2025)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2506-04935"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Resilient Pattern Mining. CoRR abs/2506.04935 (2025)"
+  },
+  {
+    "id": "journals/corr/abs-2511-01376",
+    "title": "Subtree Mode and Applications",
+    "authors": [
+      "Jialong Zhou",
+      "Ben Bals",
+      "Matei Tinca",
+      "Ai Guan",
+      "Panagiotis Charalampopoulos",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "CoRR abs/2511.01376 (2025)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2511-01376"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Subtree Mode and Applications. CoRR abs/2511.01376 (2025)"
+  },
+  {
+    "id": "journals/corr/abs-2502-14488",
+    "title": "U-index: A Universal Indexing Framework for Matching Long Patterns",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Gabriele Fici",
+      "Ragnar Groot Koerkamp",
+      "Grigorios Loukides",
+      "Rob Patro",
+      "Giulio Ermanno Pibiri",
+      "Solon P. Pissis"
+    ],
+    "year": 2025,
+    "venue": "CoRR abs/2502.14488 (2025)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2502-14488"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "U-index: A Universal Indexing Framework for Matching Long Patterns. CoRR abs/2502.14488 (2025)"
+  },
+  {
+    "id": "conf/mfcs/ZubaLPT24",
+    "title": "Approximate Suffix-Prefix Dictionary Queries",
+    "authors": [
+      "Wiktor Zuba",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Sharma V. Thankachan"
+    ],
+    "year": 2024,
+    "venue": "MFCS 2024: 85:1-85:18",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/mfcs/ZubaLPT24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Approximate Suffix-Prefix Dictionary Queries. MFCS 2024: 85:1-85:18"
+  },
+  {
+    "id": "conf/cpm/0001CGKLPSS24",
+    "title": "Connecting de Bruijn Graphs",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Inge Li Gørtz",
+      "Christoffer Krogh",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Leen Stougie",
+      "Michelle Sweering"
+    ],
+    "year": 2024,
+    "venue": "CPM 2024: 6:1-6:16",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/cpm/0001CGKLPSS24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Connecting de Bruijn Graphs. CPM 2024: 6:1-6:16"
+  },
+  {
+    "id": "journals/tkde/ZhongLCP24",
+    "title": "Ego-Network Segmentation via (Weighted) Jaccard Median",
+    "authors": [
+      "Haodi Zhong",
+      "Grigorios Loukides",
+      "Alessio Conte",
+      "Solon P. Pissis"
+    ],
+    "year": 2024,
+    "venue": "IEEE Trans. Knowl. Data Eng. 36(9): 4646-4663 (2024)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tkde/ZhongLCP24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Ego-Network Segmentation via (Weighted) Jaccard Median. IEEE Trans. Knowl. Data Eng. 36(9): 4646-4663 (2024)"
+  },
+  {
+    "id": "conf/cpm/0001ALP24",
+    "title": "Minimizing the Minimizers via Alphabet Reordering",
+    "authors": [
+      "Hilde Verbeek",
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2024,
+    "venue": "CPM 2024: 28:1-28:13",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/cpm/0001ALP24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Minimizing the Minimizers via Alphabet Reordering. CPM 2024: 28:1-28:13"
+  },
+  {
+    "id": "journals/tkdd/ChenCGLPS24",
+    "title": "On Breaking Truss-based and Core-based Communities",
+    "authors": [
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Michelle Sweering"
+    ],
+    "year": 2024,
+    "venue": "ACM Trans. Knowl. Discov. Data 18(6): 135:1-135:43 (2024)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tkdd/ChenCGLPS24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "On Breaking Truss-based and Core-based Communities. ACM Trans. Knowl. Discov. Data 18(6): 135:1-135:43 (2024)"
+  },
+  {
+    "id": "journals/algorithmica/CharalampopoulosCCLPPR24",
+    "title": "Pattern Masking for Dictionary Matching: Theory and Practice",
+    "authors": [
+      "Panagiotis Charalampopoulos",
+      "Huiping Chen",
+      "Peter Christen",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Jakub Radoszewski"
+    ],
+    "year": 2024,
+    "venue": "Algorithmica 86(6): 1948-1978 (2024)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/algorithmica/CharalampopoulosCCLPPR24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Pattern Masking for Dictionary Matching: Theory and Practice. Algorithmica 86(6): 1948-1978 (2024)"
+  },
+  {
+    "id": "conf/icdm/0012ZLPM24",
+    "title": "Scalable Order-Preserving Pattern Mining",
+    "authors": [
+      "Ling Li",
+      "Wiktor Zuba",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Maria Matsangidou"
+    ],
+    "year": 2024,
+    "venue": "ICDM 2024: 211-220",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icdm/0012ZLPM24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Scalable Order-Preserving Pattern Mining. ICDM 2024: 211-220"
+  },
+  {
+    "id": "conf/icde/Gabory0LPZ24",
+    "title": "Space-Efficient Indexes for Uncertain Strings",
+    "authors": [
+      "Estéban Gabory",
+      "Chang Liu",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Wiktor Zuba"
+    ],
+    "year": 2024,
+    "venue": "ICDE 2024: 4828-4842",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icde/Gabory0LPZ24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Space-Efficient Indexes for Uncertain Strings. ICDE 2024: 4828-4842"
+  },
+  {
+    "id": "conf/latin/AyadLPV24",
+    "title": "Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Hilde Verbeek"
+    ],
+    "year": 2024,
+    "venue": "LATIN (1) 2024: 162-177",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/latin/AyadLPV24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. LATIN (1) 2024: 162-177"
+  },
+  {
+    "id": "conf/sdm/0001CCGGLPP24",
+    "title": "Utility-Oriented String Mining",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Veronica Guerrini",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis"
+    ],
+    "year": 2024,
+    "venue": "SDM 2024: 190-198",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/sdm/0001CCGGLPP24"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Utility-Oriented String Mining. SDM 2024: 190-198"
+  },
+  {
+    "id": "journals/corr/abs-2405-04052",
+    "title": "Minimizing the Minimizers via Alphabet Reordering",
+    "authors": [
+      "Hilde Verbeek",
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2024,
+    "venue": "CoRR abs/2405.04052 (2024)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2405-04052"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Minimizing the Minimizers via Alphabet Reordering. CoRR abs/2405.04052 (2024)"
+  },
+  {
+    "id": "journals/corr/abs-2411-19511",
+    "title": "Scalable Order-Preserving Pattern Mining",
+    "authors": [
+      "Ling Li",
+      "Wiktor Zuba",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Maria Matsangidou"
+    ],
+    "year": 2024,
+    "venue": "CoRR abs/2411.19511 (2024)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2411-19511"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Scalable Order-Preserving Pattern Mining. CoRR abs/2411.19511 (2024)"
+  },
+  {
+    "id": "journals/corr/abs-2403-14256",
+    "title": "Space-Efficient Indexes for Uncertain Strings",
+    "authors": [
+      "Estéban Gabory",
+      "Chang Liu",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Wiktor Zuba"
+    ],
+    "year": 2024,
+    "venue": "CoRR abs/2403.14256 (2024)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2403-14256"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Space-Efficient Indexes for Uncertain Strings. CoRR abs/2403.14256 (2024)"
+  },
+  {
+    "id": "journals/corr/abs-2407-11819",
+    "title": "Text Indexing for Long Patterns using Locally Consistent Anchors",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2024,
+    "venue": "CoRR abs/2407.11819 (2024)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2407-11819"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Text Indexing for Long Patterns using Locally Consistent Anchors. CoRR abs/2407.11819 (2024)"
+  },
+  {
+    "id": "journals/tkde/LoukidesPS23",
+    "title": "Bidirectional String Anchors for Improved Text Indexing and Top-K Similarity Search",
+    "authors": [
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Michelle Sweering"
+    ],
+    "year": 2023,
+    "venue": "IEEE Trans. Knowl. Data Eng. 35(11): 11093-11111 (2023)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tkde/LoukidesPS23"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Bidirectional String Anchors for Improved Text Indexing and Top-$K$ Similarity Search. IEEE Trans. Knowl. Data Eng. 35(11): 11093-11111 (2023)"
+  },
+  {
+    "id": "conf/spire/PissisSLL23",
+    "title": "Frequency-Constrained Substring Complexity",
+    "authors": [
+      "Solon P. Pissis",
+      "Michael Shekelyan",
+      "Chang Liu",
+      "Grigorios Loukides"
+    ],
+    "year": 2023,
+    "venue": "SPIRE 2023: 345-352",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/spire/PissisSLL23"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Frequency-Constrained Substring Complexity. SPIRE 2023: 345-352"
+  },
+  {
+    "id": "conf/sdm/ChenLGP23",
+    "title": "Heavy Nodes in a Small Neighborhood: Algorithms and Applications",
+    "authors": [
+      "Huiping Chen",
+      "Grigorios Loukides",
+      "Robert Gwadera",
+      "Solon P. Pissis"
+    ],
+    "year": 2023,
+    "venue": "SDM 2023: 307-315",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/sdm/ChenLGP23"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Heavy Nodes in a Small Neighborhood: Algorithms and Applications. SDM 2023: 307-315"
+  },
+  {
+    "id": "journals/tkde/BernardiniCGGLPPPSS23",
+    "title": "Hide and Mine in Strings: Hardness, Algorithms, and Experiments",
+    "authors": [
+      "Giulia Bernardini",
+      "Alessio Conte",
+      "Garance Gourdel",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Giulia Punzi",
+      "Leen Stougie",
+      "Michelle Sweering"
+    ],
+    "year": 2023,
+    "venue": "IEEE Trans. Knowl. Data Eng. 35(6): 5948-5963 (2023)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tkde/BernardiniCGGLPPPSS23"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Hide and Mine in Strings: Hardness, Algorithms, and Experiments. IEEE Trans. Knowl. Data Eng. 35(6): 5948-5963 (2023)"
+  },
+  {
+    "id": "conf/cpm/LoukidesPTZ23",
+    "title": "Suffix-Prefix Queries on a Dictionary",
+    "authors": [
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Sharma V. Thankachan",
+      "Wiktor Zuba"
+    ],
+    "year": 2023,
+    "venue": "CPM 2023: 21:1-21:20",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/cpm/LoukidesPTZ23"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Suffix-Prefix Queries on a Dictionary. CPM 2023: 21:1-21:20"
+  },
+  {
+    "id": "journals/pvldb/AyadLP23",
+    "title": "Text Indexing for Long Patterns: Anchors are All you Need",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2023,
+    "venue": "Proc. VLDB Endow. 16(9): 2117-2131 (2023)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/pvldb/AyadLP23"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Text Indexing for Long Patterns: Anchors are All you Need. Proc. VLDB Endow. 16(9): 2117-2131 (2023)"
+  },
+  {
+    "id": "journals/corr/abs-2310-09023",
+    "title": "Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast",
+    "authors": [
+      "Lorraine A. K. Ayad",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Hilde Verbeek"
+    ],
+    "year": 2023,
+    "venue": "CoRR abs/2310.09023 (2023)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2310-09023"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. CoRR abs/2310.09023 (2023)"
+  },
+  {
+    "id": "journals/ipl/LoukidesP22",
+    "title": "All-pairs suffix/prefix in optimal time using Aho-Corasick space",
+    "authors": [
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2022,
+    "venue": "Inf. Process. Lett. 178: 106275 (2022)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/ipl/LoukidesP22"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "All-pairs suffix/prefix in optimal time using Aho-Corasick space. Inf. Process. Lett. 178: 106275 (2022)"
+  },
+  {
+    "id": "journals/titb/ZhongLP22",
+    "title": "Clustering Demographics and Sequences of Diagnosis Codes",
+    "authors": [
+      "Haodi Zhong",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2022,
+    "venue": "IEEE J. Biomed. Health Informatics 26(5): 2351-2359 (2022)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/titb/ZhongLP22",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/34797768/",
+      "DOI": "https://doi.org/10.1109/JBHI.2021.3129461"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed"
+    ],
+    "citation": "Clustering Demographics and Sequences of Diagnosis Codes. IEEE J. Biomed. Health Informatics 26(5): 2351-2359 (2022)",
+    "doi": "10.1109/JBHI.2021.3129461"
+  },
+  {
+    "id": "journals/dke/ZhongLP22",
+    "title": "Clustering sequence graphs",
+    "authors": [
+      "Haodi Zhong",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2022,
+    "venue": "Data Knowl. Eng. 138: 101981 (2022)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/dke/ZhongLP22"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Clustering sequence graphs. Data Knowl. Eng. 138: 101981 (2022)"
+  },
+  {
+    "id": "conf/icdm/ZhongLCP22",
+    "title": "Jaccard Median for Ego-network Segmentation",
+    "authors": [
+      "Haodi Zhong",
+      "Grigorios Loukides",
+      "Alessio Conte",
+      "Solon P. Pissis"
+    ],
+    "year": 2022,
+    "venue": "ICDM 2022: 1353-1358",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icdm/ZhongLCP22"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Jaccard Median for Ego-network Segmentation. ICDM 2022: 1353-1358"
+  },
+  {
+    "id": "conf/cpm/0001CLPSS22",
+    "title": "Making de Bruijn Graphs Eulerian",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Leen Stougie",
+      "Michelle Sweering"
+    ],
+    "year": 2022,
+    "venue": "CPM 2022: 12:1-12:18",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/cpm/0001CLPSS22"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Making de Bruijn Graphs Eulerian. CPM 2022: 12:1-12:18"
+  },
+  {
+    "id": "conf/cpm/0001CGGLPPS22",
+    "title": "On Strings Having the Same Length- k Substrings",
+    "authors": [
+      "Giulia Bernardini",
+      "Alessio Conte",
+      "Estéban Gabory",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Giulia Punzi",
+      "Michelle Sweering"
+    ],
+    "year": 2022,
+    "venue": "CPM 2022: 16:1-16:17",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/cpm/0001CGGLPPS22"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "On Strings Having the Same Length- k Substrings. CPM 2022: 16:1-16:17"
+  },
+  {
+    "id": "journals/corr/abs-2201-13376",
+    "title": "Differentially Private Top-k Selection via Canonical Lipschitz Mechanism",
+    "authors": [
+      "Michael Shekelyan",
+      "Grigorios Loukides"
+    ],
+    "year": 2022,
+    "venue": "CoRR abs/2201.13376 (2022)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2201-13376"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Differentially Private Top-k Selection via Canonical Lipschitz Mechanism. CoRR abs/2201.13376 (2022)"
+  },
+  {
+    "id": "conf/fct/ConteGLPPP21",
+    "title": "Beyond the BEST Theorem: Fast Assessment of Eulerian Trails",
+    "authors": [
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Giulia Punzi"
+    ],
+    "year": 2021,
+    "venue": "FCT 2021: 162-175",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/fct/ConteGLPPP21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Beyond the BEST Theorem: Fast Assessment of Eulerian Trails. FCT 2021: 162-175"
+  },
+  {
+    "id": "conf/esa/LoukidesP21",
+    "title": "Bidirectional String Anchors: A New String Sampling Mechanism",
+    "authors": [
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2021,
+    "venue": "ESA 2021: 64:1-64:21",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/esa/LoukidesP21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Bidirectional String Anchors: A New String Sampling Mechanism. ESA 2021: 64:1-64:21"
+  },
+  {
+    "id": "journals/tkdd/BernardiniCCGLP21",
+    "title": "Combinatorial Algorithms for String Sanitization",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Giovanna Rosone",
+      "Michelle Sweering"
+    ],
+    "year": 2021,
+    "venue": "ACM Trans. Knowl. Discov. Data 15(1): 8:1-8:34 (2021)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tkdd/BernardiniCCGLP21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Combinatorial Algorithms for String Sanitization. ACM Trans. Knowl. Discov. Data 15(1): 8:1-8:34 (2021)"
+  },
+  {
+    "id": "conf/icdm/ChenDFLPS21",
+    "title": "Differentially Private String Sanitization for Frequency-Based Mining Tasks",
+    "authors": [
+      "Huiping Chen",
+      "Changyu Dong",
+      "Liyue Fan",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Leen Stougie"
+    ],
+    "year": 2021,
+    "venue": "ICDM 2021: 41-50",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icdm/ChenDFLPS21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Differentially Private String Sanitization for Frequency-Based Mining Tasks. ICDM 2021: 41-50"
+  },
+  {
+    "id": "conf/uss/Hu0LGWGLD21",
+    "title": "How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free",
+    "authors": [
+      "Changhui Hu",
+      "Jin Li",
+      "Zheli Liu",
+      "Xiaojie Guo",
+      "Yu Wei",
+      "Xuan Guang",
+      "Grigorios Loukides",
+      "Changyu Dong"
+    ],
+    "year": 2021,
+    "venue": "USENIX Security Symposium 2021: 965-982",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/uss/Hu0LGWGLD21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free. USENIX Security Symposium 2021: 965-982"
+  },
+  {
+    "id": "journals/tcs/ChenLPC21",
+    "title": "Influence maximization in the presence of vulnerable nodes: A ratio perspective",
+    "authors": [
+      "Huiping Chen",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Hau Chan"
+    ],
+    "year": 2021,
+    "venue": "Theor. Comput. Sci. 852: 84-103 (2021)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tcs/ChenLPC21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Influence maximization in the presence of vulnerable nodes: A ratio perspective. Theor. Comput. Sci. 852: 84-103 (2021)"
+  },
+  {
+    "id": "conf/sdm/ZhengCLL21",
+    "title": "Maximizing Approximately k-Submodular Functions",
+    "authors": [
+      "Leqian Zheng",
+      "Hau Chan",
+      "Grigorios Loukides",
+      "Minming Li"
+    ],
+    "year": 2021,
+    "venue": "SDM 2021: 414-422",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/sdm/ZhengCLL21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Maximizing Approximately k-Submodular Functions. SDM 2021: 414-422"
+  },
+  {
+    "id": "conf/kdd/ChenCGLPS21",
+    "title": "On Breaking Truss-Based Communities",
+    "authors": [
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Michelle Sweering"
+    ],
+    "year": 2021,
+    "venue": "KDD 2021: 117-126",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/kdd/ChenCGLPS21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "On Breaking Truss-Based Communities. KDD 2021: 117-126"
+  },
+  {
+    "id": "conf/isaac/Charalampopoulos21",
+    "title": "Pattern Masking for Dictionary Matching",
+    "authors": [
+      "Panagiotis Charalampopoulos",
+      "Huiping Chen",
+      "Peter Christen",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Jakub Radoszewski"
+    ],
+    "year": 2021,
+    "venue": "ISAAC 2021: 65:1-65:19",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/isaac/Charalampopoulos21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Pattern Masking for Dictionary Matching. ISAAC 2021: 65:1-65:19"
+  },
+  {
+    "id": "journals/jea/BernardiniCFLP21",
+    "title": "Reverse-Safe Text Indexing",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Gabriele Fici",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2021,
+    "venue": "ACM J. Exp. Algorithmics 26: 1.10:1-1.10:26 (2021)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jea/BernardiniCFLP21"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Reverse-Safe Text Indexing. ACM J. Exp. Algorithmics 26: 1.10:1-1.10:26 (2021)"
+  },
+  {
+    "id": "journals/corr/abs-2101-07157",
+    "title": "Maximizing approximately k-submodular functions",
+    "authors": [
+      "Leqian Zheng",
+      "Hau Chan",
+      "Grigorios Loukides",
+      "Minming Li"
+    ],
+    "year": 2021,
+    "venue": "CoRR abs/2101.07157 (2021)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2101-07157"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Maximizing approximately k-submodular functions. CoRR abs/2101.07157 (2021)"
+  },
+  {
+    "id": "journals/corr/abs-2112-10376",
+    "title": "String Sampling with Bidirectional String Anchors",
+    "authors": [
+      "Grigorios Loukides",
+      "Solon P. Pissis",
+      "Michelle Sweering"
+    ],
+    "year": 2021,
+    "venue": "CoRR abs/2112.10376 (2021)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2112-10376"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "String Sampling with Bidirectional String Anchors. CoRR abs/2112.10376 (2021)"
+  },
+  {
+    "id": "conf/pkdd/ChanLS20",
+    "title": "Algorithms for Optimizing the Ratio of Monotone k-Submodular Functions",
+    "authors": [
+      "Hau Chan",
+      "Grigorios Loukides",
+      "Zhenghui Su"
+    ],
+    "year": 2020,
+    "venue": "ECML/PKDD (3) 2020: 3-19",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/pkdd/ChanLS20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Algorithms for Optimizing the Ratio of Monotone k-Submodular Functions. ECML/PKDD (3) 2020: 3-19"
+  },
+  {
+    "id": "journals/jbi/ZhongLG20",
+    "title": "Clustering datasets with demographics and diagnosis codes",
+    "authors": [
+      "Haodi Zhong",
+      "Grigorios Loukides",
+      "Robert Gwadera"
+    ],
+    "year": 2020,
+    "venue": "J. Biomed. Informatics 102: 103360 (2020)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jbi/ZhongLG20",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/31904428/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2019.103360"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed"
+    ],
+    "citation": "Clustering datasets with demographics and diagnosis codes. J. Biomed. Informatics 102: 103360 (2020)",
+    "doi": "10.1016/j.jbi.2019.103360"
+  },
+  {
+    "id": "conf/aina/AlamroIL20",
+    "title": "Efficiently Detecting Web Spambots in a Temporally Annotated Sequence",
+    "authors": [
+      "Hayam Alamro",
+      "Costas S. Iliopoulos",
+      "Grigorios Loukides"
+    ],
+    "year": 2020,
+    "venue": "AINA 2020: 1007-1019",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/aina/AlamroIL20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Efficiently Detecting Web Spambots in a Temporally Annotated Sequence. AINA 2020: 1007-1019"
+  },
+  {
+    "id": "conf/icdm/0001CGGLPPPSS20",
+    "title": "Hide and Mine in Strings: Hardness and Algorithms",
+    "authors": [
+      "Giulia Bernardini",
+      "Alessio Conte",
+      "Garance Gourdel",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Giulia Punzi",
+      "Leen Stougie",
+      "Michelle Sweering"
+    ],
+    "year": 2020,
+    "venue": "ICDM 2020: 924-929",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icdm/0001CGGLPPPSS20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Hide and Mine in Strings: Hardness and Algorithms. ICDM 2020: 924-929"
+  },
+  {
+    "id": "journals/kais/LoukidesT20",
+    "title": "Location histogram privacy by Sensitive Location Hiding and Target Histogram Avoidance/Resemblance",
+    "authors": [
+      "Grigorios Loukides",
+      "George Theodorakopoulos"
+    ],
+    "year": 2020,
+    "venue": "Knowl. Inf. Syst. 62(7): 2613-2651 (2020)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/kais/LoukidesT20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Location histogram privacy by Sensitive Location Hiding and Target Histogram Avoidance/Resemblance. Knowl. Inf. Syst. 62(7): 2613-2651 (2020)"
+  },
+  {
+    "id": "journals/toit/LoukidesGC20",
+    "title": "Overexposure-Aware Influence Maximization",
+    "authors": [
+      "Grigorios Loukides",
+      "Robert Gwadera",
+      "Shing-Wan Chang"
+    ],
+    "year": 2020,
+    "venue": "ACM Trans. Internet Techn. 20(4): 39:1-39:31 (2020)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/toit/LoukidesGC20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Overexposure-Aware Influence Maximization. ACM Trans. Internet Techn. 20(4): 39:1-39:31 (2020)"
+  },
+  {
+    "id": "conf/alenex/0001CFLP20",
+    "title": "Reverse-Safe Data Structures for Text Indexing",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Gabriele Fici",
+      "Grigorios Loukides",
+      "Solon P. Pissis"
+    ],
+    "year": 2020,
+    "venue": "ALENEX 2020: 199-213",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/alenex/0001CFLP20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Reverse-Safe Data Structures for Text Indexing. ALENEX 2020: 199-213"
+  },
+  {
+    "id": "conf/cpm/0001CLPPSS20",
+    "title": "String Sanitization Under Edit Distance",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Leen Stougie",
+      "Michelle Sweering"
+    ],
+    "year": 2020,
+    "venue": "CPM 2020: 7:1-7:14",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/cpm/0001CLPPSS20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "String Sanitization Under Edit Distance. CPM 2020: 7:1-7:14"
+  },
+  {
+    "id": "journals/iacr/HuLLGWGLD20",
+    "title": "How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free",
+    "authors": [
+      "Changhui Hu",
+      "Jin Li",
+      "Zheli Liu",
+      "Xiaojie Guo",
+      "Yu Wei",
+      "Xuan Guang",
+      "Grigorios Loukides",
+      "Changyu Dong"
+    ],
+    "year": 2020,
+    "venue": "IACR Cryptol. ePrint Arch. 2020: 1576 (2020)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/iacr/HuLLGWGLD20"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free. IACR Cryptol. ePrint Arch. 2020: 1576 (2020)"
+  },
+  {
+    "id": "journals/corr/abs-2006-16137",
+    "title": "Pattern Masking for Dictionary Matching",
+    "authors": [
+      "Panagiotis Charalampopoulos",
+      "Huiping Chen",
+      "Peter Christen",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Jakub Radoszewski"
+    ],
+    "year": 2020,
+    "venue": "CoRR abs/2006.16137 (2020)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-2006-16137"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Pattern Masking for Dictionary Matching. CoRR abs/2006.16137 (2020)"
+  },
+  {
+    "id": "conf/aina/ChenLFC19",
+    "title": "Limiting the Influence to Vulnerable Users in Social Networks: A Ratio Perspective",
+    "authors": [
+      "Huiping Chen",
+      "Grigorios Loukides",
+      "Jiashi Fan",
+      "Hau Chan"
+    ],
+    "year": 2019,
+    "venue": "AINA 2019: 1106-1122",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/aina/ChenLFC19"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Limiting the Influence to Vulnerable Users in Social Networks: A Ratio Perspective. AINA 2019: 1106-1122"
+  },
+  {
+    "id": "conf/pkdd/0001CCGLPPR19",
+    "title": "String Sanitization: A Combinatorial Approach",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Giovanna Rosone"
+    ],
+    "year": 2019,
+    "venue": "ECML/PKDD (1) 2019: 627-644",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/pkdd/0001CCGLPPR19"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "String Sanitization: A Combinatorial Approach. ECML/PKDD (1) 2019: 627-644"
+  },
+  {
+    "id": "journals/corr/abs-1912-00055",
+    "title": "Location histogram privacy by sensitive location hiding and target histogram avoidance/resemblance (extended version)",
+    "authors": [
+      "Grigorios Loukides",
+      "George Theodorakopoulos"
+    ],
+    "year": 2019,
+    "venue": "CoRR abs/1912.00055 (2019)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-1912-00055"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Location histogram privacy by sensitive location hiding and target histogram avoidance/resemblance (extended version). CoRR abs/1912.00055 (2019)"
+  },
+  {
+    "id": "journals/corr/abs-1906-11030",
+    "title": "String Sanitization: A Combinatorial Approach",
+    "authors": [
+      "Giulia Bernardini",
+      "Huiping Chen",
+      "Alessio Conte",
+      "Roberto Grossi",
+      "Grigorios Loukides",
+      "Nadia Pisanti",
+      "Solon P. Pissis",
+      "Giovanna Rosone"
+    ],
+    "year": 2019,
+    "venue": "CoRR abs/1906.11030 (2019)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-1906-11030"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "String Sanitization: A Combinatorial Approach. CoRR abs/1906.11030 (2019)"
+  },
+  {
+    "id": "journals/ijdsa/LoukidesG18",
+    "title": "Preventing the diffusion of information to vulnerable users while preserving PageRank",
+    "authors": [
+      "Grigorios Loukides",
+      "Robert Gwadera"
+    ],
+    "year": 2018,
+    "venue": "Int. J. Data Sci. Anal. 5(1): 19-39 (2018)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/ijdsa/LoukidesG18"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Preventing the diffusion of information to vulnerable users while preserving PageRank. Int. J. Data Sci. Anal. 5(1): 19-39 (2018)"
+  },
+  {
+    "id": "conf/ifip12/AjalaAIL18",
+    "title": "Towards String Sanitization",
+    "authors": [
+      "Oluwole I. Ajala",
+      "Hayam Alamro",
+      "Costas S. Iliopoulos",
+      "Grigorios Loukides"
+    ],
+    "year": 2018,
+    "venue": "AIAI (Workshops) 2018: 200-210",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/ifip12/AjalaAIL18"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Towards String Sanitization. AIAI (Workshops) 2018: 200-210"
+  },
+  {
+    "id": "journals/iacr/DongL18",
+    "title": "Approximating Private Set Union/Intersection Cardinality with Logarithmic Complexity",
+    "authors": [
+      "Changyu Dong",
+      "Grigorios Loukides"
+    ],
+    "year": 2018,
+    "venue": "IACR Cryptol. ePrint Arch. 2018: 495 (2018)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/iacr/DongL18"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Approximating Private Set Union/Intersection Cardinality with Logarithmic Complexity. IACR Cryptol. ePrint Arch. 2018: 495 (2018)"
+  },
+  {
+    "id": "journals/jbi/PoulisLSG17",
+    "title": "Anonymizing datasets with demographics and diagnosis codes in the presence of utility constraints",
+    "authors": [
+      "Giorgos Poulis",
+      "Grigorios Loukides",
+      "Spiros Skiadopoulos",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2017,
+    "venue": "J. Biomed. Informatics 65: 76-96 (2017)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jbi/PoulisLSG17",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/27832965/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2016.11.001",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed",
+      "Google Scholar"
+    ],
+    "citation": "Anonymizing datasets with demographics and diagnosis codes in the presence of utility constraints. J. Biomed. Informatics 65: 76-96 (2017)",
+    "doi": "10.1016/j.jbi.2016.11.001"
+  },
+  {
+    "id": "journals/tifs/DongL17",
+    "title": "Approximating Private Set Union/Intersection Cardinality With Logarithmic Complexity",
+    "authors": [
+      "Changyu Dong",
+      "Grigorios Loukides"
+    ],
+    "year": 2017,
+    "venue": "IEEE Trans. Inf. Forensics Secur. 12(11): 2792-2806 (2017)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tifs/DongL17",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Approximating Private Set Union/Intersection Cardinality With Logarithmic Complexity. IEEE Trans. Inf. Forensics Secur. 12(11): 2792-2806 (2017)"
+  },
+  {
+    "id": "conf/pakdd/GwaderaL17",
+    "title": "Cost-Effective Viral Marketing in the Latency Aware Independent Cascade Model",
+    "authors": [
+      "Robert Gwadera",
+      "Grigorios Loukides"
+    ],
+    "year": 2017,
+    "venue": "PAKDD (1) 2017: 251-265",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/pakdd/GwaderaL17"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Cost-Effective Viral Marketing in the Latency Aware Independent Cascade Model. PAKDD (1) 2017: 251-265"
+  },
+  {
+    "id": "conf/dsaa/LoukidesG16",
+    "title": "Limiting the Diffusion of Information by a Selective PageRank-Preserving Approach",
+    "authors": [
+      "Grigorios Loukides",
+      "Robert Gwadera"
+    ],
+    "year": 2016,
+    "venue": "DSAA 2016: 90-99",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/dsaa/LoukidesG16"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Limiting the Diffusion of Information by a Selective PageRank-Preserving Approach. DSAA 2016: 90-99"
+  },
+  {
+    "id": "conf/ispdc/MemonLS15",
+    "title": "A Parallel Method for Scalable Anonymization of Transaction Data",
+    "authors": [
+      "Neelam Memon",
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2015,
+    "venue": "ISPDC 2015: 235-241",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/ispdc/MemonLS15"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "A Parallel Method for Scalable Anonymization of Transaction Data. ISPDC 2015: 235-241"
+  },
+  {
+    "id": "books/sp/15/Gkoulalas-DivanisL15a",
+    "title": "A Survey of Anonymization Algorithms for Electronic Health Records",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2015,
+    "venue": "Medical Data Privacy Handbook 2015: 17-34",
+    "type": "Book / chapter",
+    "links": {
+      "DBLP": "https://dblp.org/rec/books/sp/15/Gkoulalas-DivanisL15a"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "A Survey of Anonymization Algorithms for Electronic Health Records. Medical Data Privacy Handbook 2015: 17-34"
+  },
+  {
+    "id": "books/sp/15/Gkoulalas-DivanisL15b",
+    "title": "Epilogue",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2015,
+    "venue": "Medical Data Privacy Handbook 2015: 765-773",
+    "type": "Book / chapter",
+    "links": {
+      "DBLP": "https://dblp.org/rec/books/sp/15/Gkoulalas-DivanisL15b"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Epilogue. Medical Data Privacy Handbook 2015: 765-773"
+  },
+  {
+    "id": "books/sp/15/Gkoulalas-DivanisL15",
+    "title": "Introduction to Medical Data Privacy",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2015,
+    "venue": "Medical Data Privacy Handbook 2015: 1-14",
+    "type": "Book / chapter",
+    "links": {
+      "DBLP": "https://dblp.org/rec/books/sp/15/Gkoulalas-DivanisL15"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Introduction to Medical Data Privacy. Medical Data Privacy Handbook 2015: 1-14"
+  },
+  {
+    "id": "books/sp/GL2015",
+    "title": "Medical Data Privacy Handbook",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2015,
+    "venue": "Springer 2015, ISBN 978-3-319-23632-2 [contents]",
+    "type": "Book / chapter",
+    "links": {
+      "DBLP": "https://dblp.org/rec/books/sp/GL2015",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Medical Data Privacy Handbook. Springer 2015, ISBN 978-3-319-23632-2 [contents]"
+  },
+  {
+    "id": "conf/sdm/LoukidesG15",
+    "title": "Optimal event sequence sanitization",
+    "authors": [
+      "Grigorios Loukides",
+      "Robert Gwadera"
+    ],
+    "year": 2015,
+    "venue": "SDM 2015: 775-783",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/sdm/LoukidesG15"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Optimal event sequence sanitization. SDM 2015: 775-783"
+  },
+  {
+    "id": "books/sp/15/PoulisGLST15",
+    "title": "SECRETA: A Tool for Anonymizing Relational, Transaction and RT-Datasets",
+    "authors": [
+      "Giorgos Poulis",
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides",
+      "Spiros Skiadopoulos",
+      "Christos Tryfonopoulos"
+    ],
+    "year": 2015,
+    "venue": "Medical Data Privacy Handbook 2015: 83-109",
+    "type": "Book / chapter",
+    "links": {
+      "DBLP": "https://dblp.org/rec/books/sp/15/PoulisGLST15"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "SECRETA: A Tool for Anonymizing Relational, Transaction and RT-Datasets. Medical Data Privacy Handbook 2015: 83-109"
+  },
+  {
+    "id": "books/sp/15/LoukidesLGT15",
+    "title": "Utility-Constrained Electronic Health Record Data Publishing Through Generalization and Disassociation",
+    "authors": [
+      "Grigorios Loukides",
+      "John Liagouris",
+      "Aris Gkoulalas-Divanis",
+      "Manolis Terrovitis"
+    ],
+    "year": 2015,
+    "venue": "Medical Data Privacy Handbook 2015: 149-177",
+    "type": "Book / chapter",
+    "links": {
+      "DBLP": "https://dblp.org/rec/books/sp/15/LoukidesLGT15"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Utility-Constrained Electronic Health Record Data Publishing Through Generalization and Disassociation. Medical Data Privacy Handbook 2015: 149-177"
+  },
+  {
+    "id": "journals/tdp/PoulisSLG14",
+    "title": "Apriori-based algorithms for kᵐ-anonymizing trajectory data",
+    "authors": [
+      "Giorgos Poulis",
+      "Spiros Skiadopoulos",
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2014,
+    "venue": "Trans. Data Priv. 7(2): 165-194 (2014)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tdp/PoulisSLG14",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Apriori-based algorithms for k^{m}-anonymizing trajectory data. Trans. Data Priv. 7(2): 165-194 (2014)"
+  },
+  {
+    "id": "journals/jbi/LoukidesLGT14",
+    "title": "Disassociation for electronic health record privacy",
+    "authors": [
+      "Grigorios Loukides",
+      "John Liagouris",
+      "Aris Gkoulalas-Divanis",
+      "Manolis Terrovitis"
+    ],
+    "year": 2014,
+    "venue": "J. Biomed. Informatics 50: 46-61 (2014)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jbi/LoukidesLGT14",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/24879898/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2014.05.009",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed",
+      "Google Scholar"
+    ],
+    "citation": "Disassociation for electronic health record privacy. J. Biomed. Informatics 50: 46-61 (2014)",
+    "doi": "10.1016/j.jbi.2014.05.009"
+  },
+  {
+    "id": "journals/jbi/Gkoulalas-DivanisLXS14",
+    "title": "Informatics methods in medical privacy",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides",
+      "Li Xiong",
+      "Jimeng Sun"
+    ],
+    "year": 2014,
+    "venue": "J. Biomed. Informatics 50: 1-3 (2014)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jbi/Gkoulalas-DivanisLXS14",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/25090933/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2014.07.010"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed"
+    ],
+    "citation": "Informatics methods in medical privacy. J. Biomed. Informatics 50: 1-3 (2014)",
+    "doi": "10.1016/j.jbi.2014.07.010"
+  },
+  {
+    "id": "journals/jbi/Gkoulalas-DivanisLS14",
+    "title": "Publishing data from electronic health records while preserving privacy: A survey of algorithms",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides",
+      "Jimeng Sun"
+    ],
+    "year": 2014,
+    "venue": "J. Biomed. Informatics 50: 4-19 (2014)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jbi/Gkoulalas-DivanisLS14",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/24936746/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2014.06.002",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed",
+      "Google Scholar"
+    ],
+    "citation": "Publishing data from electronic health records while preserving privacy: A survey of algorithms. J. Biomed. Informatics 50: 4-19 (2014)",
+    "doi": "10.1016/j.jbi.2014.06.002"
+  },
+  {
+    "id": "conf/edbt/PoulisGLST14",
+    "title": "SECRETA: A System for Evaluating and Comparing RElational and Transaction Anonymization algorithms",
+    "authors": [
+      "Giorgos Poulis",
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides",
+      "Spiros Skiadopoulos",
+      "Christos Tryfonopoulos"
+    ],
+    "year": 2014,
+    "venue": "EDBT 2014: 620-623",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/edbt/PoulisGLST14"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "SECRETA: A System for Evaluating and Comparing RElational and Transaction Anonymization algorithms. EDBT 2014: 620-623"
+  },
+  {
+    "id": "journals/ibmrd/Gkoulalas-DivanisLS14",
+    "title": "Toward smarter healthcare: Anonymizing medical data to support research studies",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides",
+      "Jimeng Sun"
+    ],
+    "year": 2014,
+    "venue": "IBM J. Res. Dev. 58(1) (2014)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/ibmrd/Gkoulalas-DivanisLS14"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Toward smarter healthcare: Anonymizing medical data to support research studies. IBM J. Res. Dev. 58(1) (2014)"
+  },
+  {
+    "id": "series/sbece/Gkoulalas-DivanisL13",
+    "title": "Anonymization of Electronic Medical Records to Support Clinical Analysis",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2013,
+    "venue": "Springer Briefs in Electrical and Computer Engineering, Springer 2013, ISBN 978-1-4614-5667-4, pp. i-xv, 1-72",
+    "type": "Book / chapter",
+    "links": {
+      "DBLP": "https://dblp.org/rec/series/sbece/Gkoulalas-DivanisL13"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Anonymization of Electronic Medical Records to Support Clinical Analysis. Springer Briefs in Electrical and Computer Engineering, Springer 2013, ISBN 978-1-4614-5667-4, pp. i-xv, 1-72"
+  },
+  {
+    "id": "conf/pkdd/PoulisLGS13",
+    "title": "Anonymizing Data with Relational and Transaction Attributes",
+    "authors": [
+      "Giorgos Poulis",
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Spiros Skiadopoulos"
+    ],
+    "year": 2013,
+    "venue": "ECML/PKDD (3) 2013: 353-369",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/pkdd/PoulisLGS13",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Anonymizing Data with Relational and Transaction Attributes. ECML/PKDD (3) 2013: 353-369"
+  },
+  {
+    "id": "pubmed/23825513",
+    "title": "Correction: Enabling Genomic-Phenomic Association Discovery without Sacrificing Anonymity",
+    "authors": [
+      "Raymond D Heatherly",
+      "Grigorios Loukides",
+      "Joshua C Denny",
+      "Jonathan L Haines",
+      "Dan M Roden",
+      "Bradley A Malin"
+    ],
+    "year": 2013,
+    "venue": "PloS one 8(6)",
+    "type": "Correction",
+    "doi": "10.1371/annotation/db45627a-50ec-4c52-8b5f-95dec75b1c80",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/23825513/",
+      "DOI": "https://doi.org/10.1371/annotation/db45627a-50ec-4c52-8b5f-95dec75b1c80"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "conf/mdm/PoulisSLG13",
+    "title": "Distance-Based kᵐ-Anonymization of Trajectory Data",
+    "authors": [
+      "Giorgos Poulis",
+      "Spiros Skiadopoulos",
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2013,
+    "venue": "MDM (2) 2013: 57-62",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/mdm/PoulisSLG13",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Distance-Based k^m-Anonymization of Trajectory Data. MDM (2) 2013: 57-62"
+  },
+  {
+    "id": "journals/kais/LoukidesGS13",
+    "title": "Efficient and flexible anonymization of transaction data",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Jianhua Shao"
+    ],
+    "year": 2013,
+    "venue": "Knowl. Inf. Syst. 36(1): 153-210 (2013)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/kais/LoukidesGS13",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Efficient and flexible anonymization of transaction data. Knowl. Inf. Syst. 36(1): 153-210 (2013)"
+  },
+  {
+    "id": "pubmed/23405076",
+    "title": "Enabling genomic-phenomic association discovery without sacrificing anonymity",
+    "authors": [
+      "Raymond D Heatherly",
+      "Grigorios Loukides",
+      "Joshua C Denny",
+      "Jonathan L Haines",
+      "Dan M Roden",
+      "Bradley A Malin"
+    ],
+    "year": 2013,
+    "venue": "PloS one 8(2): e53875",
+    "type": "Journal article",
+    "doi": "10.1371/journal.pone.0053875",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/23405076/",
+      "DOI": "https://doi.org/10.1371/journal.pone.0053875"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "conf/mdm/LoukidesG13",
+    "title": "Hiding Sensitive Patterns from Sequence Databases: Research Challenges and Solutions",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2013,
+    "venue": "MDM (2) 2013: 45-50",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/mdm/LoukidesG13"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Hiding Sensitive Patterns from Sequence Databases: Research Challenges and Solutions. MDM (2) 2013: 45-50"
+  },
+  {
+    "id": "conf/icdm/GwaderaGL13",
+    "title": "Permutation-Based Sequential Pattern Hiding",
+    "authors": [
+      "Robert Gwadera",
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2013,
+    "venue": "ICDM 2013: 241-250",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icdm/GwaderaGL13"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Permutation-Based Sequential Pattern Hiding. ICDM 2013: 241-250"
+  },
+  {
+    "id": "conf/icdm/PoulisSLG13",
+    "title": "Select-Organize-Anonymize: A Framework for Trajectory Data Anonymization",
+    "authors": [
+      "Giorgos Poulis",
+      "Spiros Skiadopoulos",
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2013,
+    "venue": "ICDM Workshops 2013: 867-874",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/icdm/PoulisSLG13"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Select-Organize-Anonymize: A Framework for Trajectory Data Anonymization. ICDM Workshops 2013: 867-874"
+  },
+  {
+    "id": "journals/titb/LoukidesG13",
+    "title": "Utility-Aware Anonymization of Diagnosis Codes",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2013,
+    "venue": "IEEE J. Biomed. Health Informatics 17(1): 60-70 (2013)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/titb/LoukidesG13",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/22893444/",
+      "DOI": "https://doi.org/10.1109/TITB.2012.2212281"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed"
+    ],
+    "citation": "Utility-Aware Anonymization of Diagnosis Codes. IEEE J. Biomed. Health Informatics 17(1): 60-70 (2013)",
+    "doi": "10.1109/TITB.2012.2212281"
+  },
+  {
+    "id": "journals/titb/TamersoyLNSM12",
+    "title": "Anonymization of Longitudinal Electronic Medical Records",
+    "authors": [
+      "Acar Tamersoy",
+      "Grigorios Loukides",
+      "Mehmet Ercan Nergiz",
+      "Yücel Saygin",
+      "Bradley A. Malin"
+    ],
+    "year": 2012,
+    "venue": "IEEE Trans. Inf. Technol. Biomed. 16(3): 413-423 (2012)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/titb/TamersoyLNSM12",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/22287248/",
+      "DOI": "https://doi.org/10.1109/TITB.2012.2185850",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed",
+      "Google Scholar"
+    ],
+    "citation": "Anonymization of Longitudinal Electronic Medical Records. IEEE Trans. Inf. Technol. Biomed. 16(3): 413-423 (2012)",
+    "doi": "10.1109/TITB.2012.2185850"
+  },
+  {
+    "id": "journals/ijsi/LoukidesGS12",
+    "title": "Assessing Disclosure Risk and Data Utility Trade-off in Transaction Data Anonymization",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Jianhua Shao"
+    ],
+    "year": 2012,
+    "venue": "Int. J. Softw. Informatics 6(3): 399-417 (2012)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/ijsi/LoukidesGS12"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Assessing Disclosure Risk and Data Utility Trade-off in Transaction Data Anonymization. Int. J. Softw. Informatics 6(3): 399-417 (2012)"
+  },
+  {
+    "id": "journals/tdp/Gkoulalas-DivanisL12",
+    "title": "Utility-guided Clustering-based Transaction Data Anonymization",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2012,
+    "venue": "Trans. Data Priv. 5(1): 223-251 (2012)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/tdp/Gkoulalas-DivanisL12"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Utility-guided Clustering-based Transaction Data Anonymization. Trans. Data Priv. 5(1): 223-251 (2012)"
+  },
+  {
+    "id": "journals/eswa/LoukidesG12",
+    "title": "Utility-preserving transaction data anonymization with low information loss",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2012,
+    "venue": "Expert Syst. Appl. 39(10): 9764-9777 (2012)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/eswa/LoukidesG12",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/22563145/",
+      "DOI": "https://doi.org/10.1016/j.eswa.2012.02.179",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed",
+      "Google Scholar"
+    ],
+    "citation": "Utility-preserving transaction data anonymization with low information loss. Expert Syst. Appl. 39(10): 9764-9777 (2012)",
+    "doi": "10.1016/j.eswa.2012.02.179"
+  },
+  {
+    "id": "conf/fskd/TziatziosSL11",
+    "title": "A heuristic method for deriving range-based classification rules",
+    "authors": [
+      "Achilles Tziatzios",
+      "Jianhua Shao",
+      "Grigorios Loukides"
+    ],
+    "year": 2011,
+    "venue": "FSKD 2011: 925-929",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/fskd/TziatziosSL11"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "A heuristic method for deriving range-based classification rules. FSKD 2011: 925-929"
+  },
+  {
+    "id": "journals/kais/LoukidesGM11",
+    "title": "COAT: COnstraint-based anonymization of transactions",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Bradley A. Malin"
+    ],
+    "year": 2011,
+    "venue": "Knowl. Inf. Syst. 28(2): 251-282 (2011)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/kais/LoukidesGM11",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "COAT: COnstraint-based anonymization of transactions. Knowl. Inf. Syst. 28(2): 251-282 (2011)"
+  },
+  {
+    "id": "pubmed/21739176",
+    "title": "Identifiability in biobanks: models, measures, and mitigation strategies",
+    "authors": [
+      "Bradley Malin",
+      "Grigorios Loukides",
+      "Kathleen Benitez",
+      "Ellen Wright Clayton"
+    ],
+    "year": 2011,
+    "venue": "Human genetics 130(3): 383",
+    "type": "Journal article",
+    "doi": "10.1007/s00439-011-1042-5",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/21739176/",
+      "DOI": "https://doi.org/10.1007/s00439-011-1042-5",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "PubMed",
+      "Google Scholar"
+    ]
+  },
+  {
+    "id": "conf/edbt/Gkoulalas-DivanisL11",
+    "title": "PCTA: privacy-constrained clustering-based transaction data anonymization",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2011,
+    "venue": "PAIS 2011: 5",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/edbt/Gkoulalas-DivanisL11"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "PCTA: privacy-constrained clustering-based transaction data anonymization. PAIS 2011: 5"
+  },
+  {
+    "id": "journals/eswa/LoukidesS11",
+    "title": "Preventing range disclosure in k-anonymised data",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2011,
+    "venue": "Expert Syst. Appl. 38(4): 4559-4574 (2011)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/eswa/LoukidesS11"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Preventing range disclosure in k-anonymised data. Expert Syst. Appl. 38(4): 4559-4574 (2011)"
+  },
+  {
+    "id": "conf/kdd/Gkoulalas-DivanisL11",
+    "title": "Revisiting sequential pattern hiding to enhance utility",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides"
+    ],
+    "year": 2011,
+    "venue": "KDD 2011: 1316-1324",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/kdd/Gkoulalas-DivanisL11",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Revisiting sequential pattern hiding to enhance utility. KDD 2011: 1316-1324"
+  },
+  {
+    "id": "pubmed/21347085",
+    "title": "Anonymization of administrative billing codes with repeated diagnoses through censoring",
+    "authors": [
+      "Acar Tamersoy",
+      "Grigorios Loukides",
+      "Joshua C Denny",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "AMIA ... Annual Symposium proceedings. AMIA Symposium 2010: 782",
+    "type": "Conference paper",
+    "doi": null,
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/21347085/"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/20385806",
+    "title": "Anonymization of electronic medical records for validating genome-wide association studies",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America 107(17): 7898",
+    "type": "Journal article",
+    "doi": "10.1073/pnas.0911686107",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/20385806/",
+      "DOI": "https://doi.org/10.1073/pnas.0911686107",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "PubMed",
+      "Google Scholar"
+    ]
+  },
+  {
+    "id": "conf/dexa/LoukidesGS10",
+    "title": "Anonymizing Transaction Data to Eliminate Sensitive Inferences",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Jianhua Shao"
+    ],
+    "year": 2010,
+    "venue": "DEXA (1) 2010: 400-415",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/dexa/LoukidesGS10",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Anonymizing Transaction Data to Eliminate Sensitive Inferences. DEXA (1) 2010: 400-415"
+  },
+  {
+    "id": "conf/ihi/BenitezLM10",
+    "title": "Beyond safe harbor: automatic discovery of health information de-identification policy alternatives",
+    "authors": [
+      "Kathleen Benitez",
+      "Grigorios Loukides",
+      "Bradley A. Malin"
+    ],
+    "year": 2010,
+    "venue": "IHI 2010: 163-172",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/ihi/BenitezLM10",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/25525631/",
+      "DOI": "https://doi.org/10.1145/1882992.1883017"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed"
+    ],
+    "citation": "Beyond safe harbor: automatic discovery of health information de-identification policy alternatives. IHI 2010: 163-172",
+    "doi": "10.1145/1882992.1883017"
+  },
+  {
+    "id": "pubmed/25580471",
+    "title": "Privacy-Preserving Publication of Diagnosis Codes for Effective Biomedical Analysis",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "ITAB 2010 Corfu, Greece : 10th International Conference on Information Technology and Applications in Biomedicine : Emerging Technologies for Patient Specific Healthcare : 2-5 November 2010, Aquis Corfu Holiday Palace Hotel, Greece. Int... 2010: 1",
+    "type": "Conference paper",
+    "doi": "10.1109/ITAB.2010.5687720",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/25580471/",
+      "DOI": "https://doi.org/10.1109/ITAB.2010.5687720"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "journals/jamia/LoukidesDM10",
+    "title": "The disclosure of diagnosis codes can breach research participants' privacy",
+    "authors": [
+      "Grigorios Loukides",
+      "Joshua C. Denny",
+      "Bradley A. Malin"
+    ],
+    "year": 2010,
+    "venue": "J. Am. Medical Informatics Assoc. 17(3): 322-327 (2010)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jamia/LoukidesDM10",
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/20442151/",
+      "DOI": "https://doi.org/10.1136/jamia.2009.002725",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "PubMed",
+      "Google Scholar"
+    ],
+    "citation": "The disclosure of diagnosis codes can breach research participants' privacy. J. Am. Medical Informatics Assoc. 17(3): 322-327 (2010)",
+    "doi": "10.1136/jamia.2009.002725"
+  },
+  {
+    "id": "journals/crossroads/LoukidesG09",
+    "title": "Privacy challenges and solutions in the social web",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2009,
+    "venue": "ACM Crossroads 16(2): 14-18 (2009)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/crossroads/LoukidesG09"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Privacy challenges and solutions in the social web. ACM Crossroads 16(2): 14-18 (2009)"
+  },
+  {
+    "id": "conf/dasfaa/LoukidesTS09",
+    "title": "Towards Preference-Constrained k-Anonymisation",
+    "authors": [
+      "Grigorios Loukides",
+      "Achilles Tziatzios",
+      "Jianhua Shao"
+    ],
+    "year": 2009,
+    "venue": "DASFAA Workshops 2009: 231-245",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/dasfaa/LoukidesTS09"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Towards Preference-Constrained k-Anonymisation. DASFAA Workshops 2009: 231-245"
+  },
+  {
+    "id": "journals/corr/abs-0912-2548",
+    "title": "COAT: COnstraint-based Anonymization of Transactions",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Bradley A. Malin"
+    ],
+    "year": 2009,
+    "venue": "CoRR abs/0912.2548 (2009)",
+    "type": "Preprint",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/corr/abs-0912-2548"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "COAT: COnstraint-based Anonymization of Transactions. CoRR abs/0912.2548 (2009)"
+  },
+  {
+    "id": "journals/jcst/LoukidesS08",
+    "title": "An Efficient Clustering Algorithm for k -Anonymisation",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2008,
+    "venue": "J. Comput. Sci. Technol. 23(2): 188-202 (2008)",
+    "type": "Journal article",
+    "links": {
+      "DBLP": "https://dblp.org/rec/journals/jcst/LoukidesS08",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "An Efficient Clustering Algorithm for k -Anonymisation. J. Comput. Sci. Technol. 23(2): 188-202 (2008)"
+  },
+  {
+    "id": "conf/bncod/LoukidesS07a",
+    "title": "An Empirical Study of Utility Measures for k-Anonymisation",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2008,
+    "venue": "BNCOD 2008: 15-27",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/bncod/LoukidesS07a"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "An Empirical Study of Utility Measures for k-Anonymisation. BNCOD 2008: 15-27"
+  },
+  {
+    "id": "phd/ethos/Loukides08",
+    "title": "Data utility and privacy protection in data publishing",
+    "authors": [
+      "Grigorios Loukides"
+    ],
+    "year": 2008,
+    "venue": "Cardiff University, UK, 2008",
+    "type": "Thesis",
+    "links": {
+      "DBLP": "https://dblp.org/rec/phd/ethos/Loukides08"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Data utility and privacy protection in data publishing. Cardiff University, UK, 2008"
+  },
+  {
+    "id": "conf/edbt/LoukidesS08",
+    "title": "Data utility and privacy protection trade-off in k-anonymisation",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2008,
+    "venue": "PAIS 2008: 36-45",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/edbt/LoukidesS08",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Data utility and privacy protection trade-off in k-anonymisation. PAIS 2008: 36-45"
+  },
+  {
+    "id": "conf/sac/LoukidesS07",
+    "title": "Capturing data usefulness and privacy protection in K-anonymisation",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2007,
+    "venue": "SAC 2007: 370-374",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/sac/LoukidesS07",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "DBLP",
+      "Google Scholar"
+    ],
+    "citation": "Capturing data usefulness and privacy protection in K-anonymisation. SAC 2007: 370-374"
+  },
+  {
+    "id": "conf/dexa/LoukidesS07",
+    "title": "Clustering-Based K-Anonymisation Algorithms",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2007,
+    "venue": "DEXA 2007: 761-771",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/dexa/LoukidesS07"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Clustering-Based K-Anonymisation Algorithms. DEXA 2007: 761-771"
+  },
+  {
+    "id": "conf/bncod/LoukidesS07",
+    "title": "Speeding Up Clustering-Based k -Anonymisation Algorithms with Pre-partitioning",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2007,
+    "venue": "BNCOD 2007: 203-214",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/bncod/LoukidesS07"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Speeding Up Clustering-Based k -Anonymisation Algorithms with Pre-partitioning. BNCOD 2007: 203-214"
+  },
+  {
+    "id": "conf/IEEEcit/LoukidesS06",
+    "title": "Towards Balancing Data Usefulness and Privacy Protection in K-Anonymisation",
+    "authors": [
+      "Grigorios Loukides",
+      "Jianhua Shao"
+    ],
+    "year": 2006,
+    "venue": "CIT 2006: 15",
+    "type": "Conference paper",
+    "links": {
+      "DBLP": "https://dblp.org/rec/conf/IEEEcit/LoukidesS06"
+    },
+    "sources": [
+      "DBLP"
+    ],
+    "citation": "Towards Balancing Data Usefulness and Privacy Protection in K-Anonymisation. CIT 2006: 15"
+  }
+]

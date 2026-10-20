@@ -1,0 +1,380 @@
+[
+  {
+    "id": "pubmed/39867462",
+    "title": "Missing value replacement in strings and applications",
+    "authors": [
+      "Giulia Bernardini",
+      "Chang Liu",
+      "Grigorios Loukides",
+      "Alberto Marchetti-Spaccamela",
+      "Solon P Pissis",
+      "Leen Stougie",
+      "Michelle Sweering"
+    ],
+    "year": 2025,
+    "venue": "Data mining and knowledge discovery 39(2): 12",
+    "type": "Journal article",
+    "doi": "10.1007/s10618-024-01074-3",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/39867462/",
+      "DOI": "https://doi.org/10.1007/s10618-024-01074-3"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/34797768",
+    "title": "Clustering Demographics and Sequences of Diagnosis Codes",
+    "authors": [
+      "Haodi Zhong",
+      "Grigorios Loukides",
+      "Solon P Pissis"
+    ],
+    "year": 2022,
+    "venue": "IEEE journal of biomedical and health informatics 26(5): 2351",
+    "type": "Journal article",
+    "doi": "10.1109/JBHI.2021.3129461",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/34797768/",
+      "DOI": "https://doi.org/10.1109/JBHI.2021.3129461"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/31904428",
+    "title": "Clustering datasets with demographics and diagnosis codes",
+    "authors": [
+      "Haodi Zhong",
+      "Grigorios Loukides",
+      "Robert Gwadera"
+    ],
+    "year": 2020,
+    "venue": "Journal of biomedical informatics 102: 103360",
+    "type": "Journal article",
+    "doi": "10.1016/j.jbi.2019.103360",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/31904428/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2019.103360"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/27832965",
+    "title": "Anonymizing datasets with demographics and diagnosis codes in the presence of utility constraints",
+    "authors": [
+      "Giorgos Poulis",
+      "Grigorios Loukides",
+      "Spiros Skiadopoulos",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2017,
+    "venue": "Journal of biomedical informatics 65: 76",
+    "type": "Journal article",
+    "doi": "10.1016/j.jbi.2016.11.001",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/27832965/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2016.11.001"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/25090933",
+    "title": "Informatics methods in medical privacy",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides",
+      "Li Xiong",
+      "Jimeng Sun"
+    ],
+    "year": 2014,
+    "venue": "Journal of biomedical informatics 50: 1",
+    "type": "Journal article",
+    "doi": "10.1016/j.jbi.2014.07.010",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/25090933/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2014.07.010"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/24936746",
+    "title": "Publishing data from electronic health records while preserving privacy: a survey of algorithms",
+    "authors": [
+      "Aris Gkoulalas-Divanis",
+      "Grigorios Loukides",
+      "Jimeng Sun"
+    ],
+    "year": 2014,
+    "venue": "Journal of biomedical informatics 50: 4",
+    "type": "Journal article",
+    "doi": "10.1016/j.jbi.2014.06.002",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/24936746/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2014.06.002"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/24879898",
+    "title": "Disassociation for electronic health record privacy",
+    "authors": [
+      "Grigorios Loukides",
+      "John Liagouris",
+      "Aris Gkoulalas-Divanis",
+      "Manolis Terrovitis"
+    ],
+    "year": 2014,
+    "venue": "Journal of biomedical informatics 50: 46",
+    "type": "Journal article",
+    "doi": "10.1016/j.jbi.2014.05.009",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/24879898/",
+      "DOI": "https://doi.org/10.1016/j.jbi.2014.05.009"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/23825513",
+    "title": "Correction: Enabling Genomic-Phenomic Association Discovery without Sacrificing Anonymity",
+    "authors": [
+      "Raymond D Heatherly",
+      "Grigorios Loukides",
+      "Joshua C Denny",
+      "Jonathan L Haines",
+      "Dan M Roden",
+      "Bradley A Malin"
+    ],
+    "year": 2013,
+    "venue": "PloS one 8(6)",
+    "type": "Correction",
+    "doi": "10.1371/annotation/db45627a-50ec-4c52-8b5f-95dec75b1c80",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/23825513/",
+      "DOI": "https://doi.org/10.1371/annotation/db45627a-50ec-4c52-8b5f-95dec75b1c80"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/23405076",
+    "title": "Enabling genomic-phenomic association discovery without sacrificing anonymity",
+    "authors": [
+      "Raymond D Heatherly",
+      "Grigorios Loukides",
+      "Joshua C Denny",
+      "Jonathan L Haines",
+      "Dan M Roden",
+      "Bradley A Malin"
+    ],
+    "year": 2013,
+    "venue": "PloS one 8(2): e53875",
+    "type": "Journal article",
+    "doi": "10.1371/journal.pone.0053875",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/23405076/",
+      "DOI": "https://doi.org/10.1371/journal.pone.0053875"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/22893444",
+    "title": "Utility-aware anonymization of diagnosis codes",
+    "authors": [
+      "G Loukides",
+      "A Gkoulalas-Divanis"
+    ],
+    "year": 2013,
+    "venue": "IEEE journal of biomedical and health informatics 17(1): 60",
+    "type": "Journal article",
+    "doi": "10.1109/TITB.2012.2212281",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/22893444/",
+      "DOI": "https://doi.org/10.1109/TITB.2012.2212281"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/22563145",
+    "title": "Utility-preserving transaction data anonymization with low information loss",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis"
+    ],
+    "year": 2012,
+    "venue": "Expert systems with applications 39(10): 9764",
+    "type": "Journal article",
+    "doi": "10.1016/j.eswa.2012.02.179",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/22563145/",
+      "DOI": "https://doi.org/10.1016/j.eswa.2012.02.179"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/22287248",
+    "title": "Anonymization of longitudinal electronic medical records",
+    "authors": [
+      "Acar Tamersoy",
+      "Grigorios Loukides",
+      "Mehmet Ercan Nergiz",
+      "Yucel Saygin",
+      "Bradley Malin"
+    ],
+    "year": 2012,
+    "venue": "IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society 16(3): 413",
+    "type": "Journal article",
+    "doi": "10.1109/TITB.2012.2185850",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/22287248/",
+      "DOI": "https://doi.org/10.1109/TITB.2012.2185850"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/21739176",
+    "title": "Identifiability in biobanks: models, measures, and mitigation strategies",
+    "authors": [
+      "Bradley Malin",
+      "Grigorios Loukides",
+      "Kathleen Benitez",
+      "Ellen Wright Clayton"
+    ],
+    "year": 2011,
+    "venue": "Human genetics 130(3): 383",
+    "type": "Journal article",
+    "doi": "10.1007/s00439-011-1042-5",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/21739176/",
+      "DOI": "https://doi.org/10.1007/s00439-011-1042-5",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "PubMed",
+      "Google Scholar"
+    ]
+  },
+  {
+    "id": "pubmed/21347085",
+    "title": "Anonymization of administrative billing codes with repeated diagnoses through censoring",
+    "authors": [
+      "Acar Tamersoy",
+      "Grigorios Loukides",
+      "Joshua C Denny",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "AMIA ... Annual Symposium proceedings. AMIA Symposium 2010: 782",
+    "type": "Conference paper",
+    "doi": null,
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/21347085/"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/25580471",
+    "title": "Privacy-Preserving Publication of Diagnosis Codes for Effective Biomedical Analysis",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "ITAB 2010 Corfu, Greece : 10th International Conference on Information Technology and Applications in Biomedicine : Emerging Technologies for Patient Specific Healthcare : 2-5 November 2010, Aquis Corfu Holiday Palace Hotel, Greece. Int... 2010: 1",
+    "type": "Conference paper",
+    "doi": "10.1109/ITAB.2010.5687720",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/25580471/",
+      "DOI": "https://doi.org/10.1109/ITAB.2010.5687720"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/20442151",
+    "title": "The disclosure of diagnosis codes can breach research participants' privacy",
+    "authors": [
+      "Grigorios Loukides",
+      "Joshua C Denny",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "Journal of the American Medical Informatics Association : JAMIA 17(3): 322",
+    "type": "Journal article",
+    "doi": "10.1136/jamia.2009.002725",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/20442151/",
+      "DOI": "https://doi.org/10.1136/jamia.2009.002725"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "id": "pubmed/20385806",
+    "title": "Anonymization of electronic medical records for validating genome-wide association studies",
+    "authors": [
+      "Grigorios Loukides",
+      "Aris Gkoulalas-Divanis",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America 107(17): 7898",
+    "type": "Journal article",
+    "doi": "10.1073/pnas.0911686107",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/20385806/",
+      "DOI": "https://doi.org/10.1073/pnas.0911686107",
+      "Google Scholar": "https://scholar.google.com/citations?user=OtmncdQAAAAJ"
+    },
+    "sources": [
+      "PubMed",
+      "Google Scholar"
+    ]
+  },
+  {
+    "id": "pubmed/25525631",
+    "title": "Beyond Safe Harbor: Automatic Discovery of Health Information De-identification Policy Alternatives",
+    "authors": [
+      "Kathleen Benitez",
+      "Grigorios Loukides",
+      "Bradley Malin"
+    ],
+    "year": 2010,
+    "venue": "IHI ... : proceedings of the ... ACM SIGHIT International Health Informatics Symposium. ACM SIGHIT International Health Informatics Symposium 2010: 163",
+    "type": "Journal article",
+    "doi": "10.1145/1882992.1883017",
+    "links": {
+      "PubMed": "https://pubmed.ncbi.nlm.nih.gov/25525631/",
+      "DOI": "https://doi.org/10.1145/1882992.1883017"
+    },
+    "sources": [
+      "PubMed"
+    ]
+  }
+]

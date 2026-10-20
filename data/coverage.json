@@ -1,0 +1,10 @@
+{
+  "retrieved": "2026-10-20",
+  "dblp_records": 126,
+  "pubmed_records": 18,
+  "pubmed_overlaps": 12,
+  "scholar_records_visible": 20,
+  "union_records": 132,
+  "scholar_coverage": "Partial: 20 entries visible in an older indexed profile snapshot; subsequent requests were unavailable/rate limited. No citation metrics imported.",
+  "method": "PubMed entries merged into DBLP on normalized title, compatible year (within one year for online/print dates), and non-preprint status, only when unambiguous. Scholar entries matched by normalized title and exact year. Distinct conference, journal, preprint and correction records retained."
+}
