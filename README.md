@@ -7,12 +7,12 @@ Static, responsive website for GitHub Pages. No installation, framework, trackin
 In this repository, open **Settings → Pages**. Select **Deploy from a branch**, **main**, **/(root)**, then **Save**.
 
 Expected URL after GitHub finishes deployment:
-https://grigoriscsdcf-code.github.io/grigorios.loukides/
+https://grigorios-loukides.github.io/
 
 ## Contents
 
-- King's College London biography, official portrait, research themes and news links.
-- 132 bibliographic records: 126 DBLP records plus 6 PubMed additions (18 PubMed records total; 12 overlaps).
+- King's College London biography, official portrait, research themes and sourced academic service roles.
+- 131 displayed bibliographic records: 126 DBLP records plus 6 PubMed additions, minus the excluded thesis (18 PubMed records total; 12 overlaps).
 - 20 visible Google Scholar entries matched to existing records. Scholar access was partial; the site does not claim complete Scholar coverage or display stale citation metrics.
 - Search by title/author/venue; filters by year, type and source; BibTeX exports; static HTML fallback without JavaScript.
 
@@ -22,7 +22,7 @@ Edit `data/publications.json` and/or `template.html`, then run `python3 build.py
 
 `data/dblp.json`, `data/pubmed.json`, and `data/scholar.json` retain source records or matched source titles. `data/coverage.json` documents retrieval limitations and reconciliation. Source retrieval date: 20 October 2026. The Google Scholar observation came from an older indexed snapshot, not a fresh complete export.
 
-Deduplication joins unambiguous normalized titles with compatible publication years. Conference, journal, preprint, thesis, book/chapter and correction records remain distinct. The total is a count of records, not unique research contributions. Author identity was checked using full names, subject matter, affiliations, and ORCID 0000-0003-0888-5061. PubMed's abbreviated G. Loukides record was cross-checked against its DBLP title.
+Deduplication joins unambiguous normalized titles with compatible publication years. Conference, journal, preprint, book/chapter and correction records remain distinct. The total is a count of records, not unique research contributions. Author identity was checked using full names, subject matter, affiliations, and ORCID 0000-0003-0888-5061. PubMed's abbreviated G. Loukides record was cross-checked against its DBLP title.
 
 Profile: https://www.kcl.ac.uk/people/grigorios-loukides
 DBLP: https://dblp.org/pid/96/4724

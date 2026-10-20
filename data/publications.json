@@ -2648,23 +2648,6 @@
     "citation": "An Empirical Study of Utility Measures for k-Anonymisation. BNCOD 2008: 15-27"
   },
   {
-    "id": "phd/ethos/Loukides08",
-    "title": "Data utility and privacy protection in data publishing",
-    "authors": [
-      "Grigorios Loukides"
-    ],
-    "year": 2008,
-    "venue": "Cardiff University, UK, 2008",
-    "type": "Thesis",
-    "links": {
-      "DBLP": "https://dblp.org/rec/phd/ethos/Loukides08"
-    },
-    "sources": [
-      "DBLP"
-    ],
-    "citation": "Data utility and privacy protection in data publishing. Cardiff University, UK, 2008"
-  },
-  {
     "id": "conf/edbt/LoukidesS08",
     "title": "Data utility and privacy protection trade-off in k-anonymisation",
     "authors": [
