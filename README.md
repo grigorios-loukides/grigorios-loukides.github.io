@@ -11,7 +11,7 @@ https://grigorios-loukides.github.io/
 
 ## Contents
 
-- King's College London biography, official portrait, research themes and sourced academic service roles.
+- King's College London biography, LinkedIn portrait, research themes and sourced academic service roles.
 - 131 displayed bibliographic records: 126 DBLP records plus 6 PubMed additions, minus the excluded thesis (18 PubMed records total; 12 overlaps).
 - 20 visible Google Scholar entries matched to existing records. Scholar access was partial; the site does not claim complete Scholar coverage or display stale citation metrics.
 - Search by title/author/venue; filters by year, type and source; BibTeX exports; static HTML fallback without JavaScript.
@@ -32,3 +32,5 @@ Scholar: https://scholar.google.com/citations?user=OtmncdQAAAAJ
 Portrait remains credited to King's College London; no blanket license is asserted over third-party material.
 
 Academic service: ICDM programme committee service since 2011 is confirmed by the author; linked committee archives document individual editions. Other listed roles link to conference, publisher, institutional, or organiser announcements. CIKM is omitted at the author’s request.
+
+Portrait updated from the public LinkedIn profile image served on [Grigorios Loukides’ post](https://www.linkedin.com/posts/grigorios-loukides-78ba065_humbled-to-receive-the-faculty-of-natural-activity-7274537849201262594-fSMI). The image is embedded locally to avoid a dependency on expiring LinkedIn image URLs.
