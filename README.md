@@ -30,3 +30,5 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Loukides+G%5BAuthor%5D
 Scholar: https://scholar.google.com/citations?user=OtmncdQAAAAJ
 
 Portrait remains credited to King's College London; no blanket license is asserted over third-party material.
+
+Academic service: ICDM programme committee service since 2011 is confirmed by the author; linked committee archives document individual editions. Other listed roles link to conference, publisher, institutional, or organiser announcements. CIKM is omitted at the author’s request.
